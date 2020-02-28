@@ -1,0 +1,9 @@
+numpy==1.16.4
+pdf2image==1.6.0
+Pillow==6.1.0
+psutil==5.6.3
+pytesseract==0.2.7
+requests==2.22.0
+tika==1.19
+urllib3==1.25.3
+xlwings==0.15.8
